@@ -1,0 +1,1253 @@
+# TOYVERSE ELITE
+## The Ultimate Global Toy Universe, Toy Marketplace, Play Platform, Learning Ecosystem and Family Super-App
+
+### MASTER BUILD INSTRUCTION
+
+Act as a world-class team consisting of a billionaire technology founder, a visionary product strategist, a chief software architect, a luxury brand designer, a child-development specialist, a toy-industry expert, an e-commerce leader, a game designer, a cybersecurity engineer, a marketplace operator and an accessibility expert.
+
+Your mission is to design and build **TOYVERSE ELITE**, an extraordinary, premium, visually spectacular and genuinely useful global platform that brings the entire world of toys into one trusted digital universe.
+
+Do not build an ordinary online toy store. Build an interconnected ecosystem for discovering, buying, selling, learning about, collecting, borrowing, repairing, exchanging and playing with toys.
+
+The platform must be suitable for families worldwide, spanning babies, toddlers, preschoolers, school-age children, teenagers, parents, grandparents, educators, toy collectors, manufacturers, independent creators, toy retailers, toy libraries and children's activity providers.
+
+The experience should feel grand, imaginative, premium, joyful, modern, intelligent, safe and exceptionally polished. Every screen should communicate that TOYVERSE ELITE is a world-class destination for the universe of toys.
+
+Build a functional application, not merely a static landing page. Prioritize a complete, working core experience, then create an architecture that can expand into the world's most comprehensive toy ecosystem.
+
+---
+
+# 1. BRAND IDENTITY AND WORLD-CLASS POSITIONING
+
+Brand name: TOYVERSE ELITE
+
+Tagline: **Every Toy. Every Imagination. One Universe.**
+
+Brand promise: Discover the perfect world of play for every child.
+
+Vision: Become the most trusted and comprehensive global destination for toys, play, creativity, childhood learning and family entertainment.
+
+Mission: Help every child discover meaningful play while helping parents make confident, safe, informed and age-appropriate choices.
+
+Brand personality:
+- Grand and aspirational.
+- Playful without looking childish to adults.
+- Premium without being intimidating.
+- Intelligent without being complicated.
+- Globally inclusive and culturally respectful.
+- Trustworthy, accessible and family-first.
+- Imaginative, collectible, educational and commercially powerful.
+
+Create a distinctive visual identity with a memorable TOYVERSE symbol, a sophisticated wordmark, a recognizable app icon, tasteful illustrations, polished iconography, micro-interactions and a coherent design system.
+
+Use a premium palette of midnight navy, deep royal purple, warm ivory, champagne gold and carefully selected playful accent colors. Introduce luminous gradients, subtle starfield motifs, floating toy illustrations, refined glass effects and soft dimensionality where appropriate.
+
+Do not overuse gold, animations, gradients or visual effects. Every element must be tasteful, legible, accessible and fast.
+
+The interface should feel like a combination of a premium global marketplace, a magical toy discovery universe, a family-friendly digital playground and an intelligent shopping assistant.
+
+---
+
+# 2. THE COMPLETE TOYVERSE ECOSYSTEM
+
+Create separate but interconnected experiences for the following user groups:
+
+1. Children, with age-appropriate, parent-supervised experiences.
+2. Parents and guardians.
+3. Grandparents and extended families.
+4. Toy manufacturers and established brands.
+5. Independent toy designers and creators.
+6. Authorized toy retailers and verified marketplace sellers.
+7. Toy collectors and hobbyists.
+8. Educators, schools and preschools.
+9. Libraries, toy-lending organizations and community centers.
+10. Toy repair, restoration and donation organizations.
+11. Delivery, fulfillment and logistics partners.
+12. Platform administrators, safety teams and customer-support teams.
+
+Use role-based permissions. One person may hold multiple roles.
+
+Each user group should have a customized dashboard, relevant tools, appropriate access permissions and a clear reason to return to the platform.
+
+Child-facing features must not automatically inherit adult marketplace features. Buying, selling, making payments, contacting sellers and accessing public communities must remain behind appropriate adult controls.
+
+---
+
+# 3. GRAND HOMEPAGE EXPERIENCE
+
+Create a visually spectacular homepage that instantly communicates the scale of the platform.
+
+## Hero section
+
+Display a cinematic, beautifully illustrated Toyverse universe containing miniature worlds of toys, interactive-looking floating product displays and imaginative play environments.
+
+Main headline:
+
+**Welcome to a Universe Built for Play.**
+
+Subheadline:
+
+Discover extraordinary toys, unlock creativity, explore new worlds and find the perfect play experience for every age, interest and imagination.
+
+Primary actions:
+- Explore the Toy Universe.
+- Discover My Next Favorite Toy.
+- Shop Toys.
+- Explore Learning Through Play.
+
+Include a prominent, intelligent search field with the placeholder:
+
+"Search any toy, brand, character, age, interest or activity..."
+
+The hero should be striking without making the page slow or overwhelming.
+
+## Homepage sections
+
+Create these sections with polished layouts, responsive cards and real navigation:
+
+1. Featured Toyverse collections.
+2. Trending toys and newly launched products.
+3. Toys by age and developmental stage.
+4. Toys by interest and personality.
+5. Educational toys and STEM discoveries.
+6. Building, construction and creative play.
+7. Dolls, plushies and imaginative role-play.
+8. Vehicles, trains, planes and remote-control toys.
+9. Board games, puzzles and family games.
+10. Outdoor adventures and sports toys.
+11. Science, robotics and beginner coding toys.
+12. Arts, crafts, music and instruments.
+13. Collectible toys and hobby products.
+14. Books, toy-linked storytelling and pretend-play kits.
+15. Sensory-friendly and accessibility-conscious play.
+16. Sustainable toys and durable wooden toys.
+17. Budget-friendly discoveries.
+18. Premium gifts and special-occasion collections.
+19. Pre-loved toys and verified resale.
+20. Toy rental, lending and exchange opportunities.
+21. Local toy shops, play spaces and toy libraries.
+22. Parent-approved recommendations.
+23. Gift finder for birthdays, festivals and celebrations.
+24. New arrivals, seasonal collections and limited releases.
+25. Personalized recommendations based on parent-selected interests.
+
+Every homepage section must link to a meaningful destination. Do not create decorative buttons that do nothing.
+
+---
+
+# 4. THE WORLD'S MOST COMPLETE TOY DIRECTORY
+
+Build a rich, searchable, expandable global toy catalog.
+
+Organize toys using multiple classification systems simultaneously.
+
+## A. By toy category
+
+- Building blocks and construction sets.
+- LEGO-compatible products, with accurate brand identification.
+- Dolls and dollhouses.
+- Plush toys and teddy bears.
+- Action figures and character toys.
+- Miniature vehicles and model cars.
+- Remote-control vehicles.
+- Trains, aircraft and transportation toys.
+- Board games and card games.
+- Puzzles, brain teasers and logic games.
+- Educational toys.
+- STEM and science experiment kits.
+- Robotics and coding toys.
+- Musical toys and beginner instruments.
+- Art, drawing and craft supplies.
+- Outdoor and water-play toys.
+- Sports and movement toys.
+- Pretend-play and role-playing sets.
+- Kitchen, shop, doctor and building role-play toys.
+- Sensory toys and fidget products.
+- Wooden and Montessori-inspired toys.
+- Collectibles and figurines.
+- Model kits and hobby products.
+- Magic sets and performance toys.
+- Books and interactive storytelling products.
+- Baby and toddler toys.
+- Electronic toys and interactive companions.
+- Digital games paired with physical toys.
+- Adaptive toys and toys designed for different abilities.
+- Eco-conscious toys and recycled-material products.
+- Custom-made toys and independent creator products.
+- Vintage, discontinued and collectible toys.
+
+These categories are illustrative rather than restrictive. The architecture must support new categories without requiring a complete redesign.
+
+## B. By age and developmental suitability
+
+Support age filters from infancy through adolescence and adult collecting, using clearly labeled age ranges and manufacturer guidance.
+
+Store minimum age, recommended age, small-parts warnings, supervision requirements and relevant safety notices separately.
+
+Never treat age as the only measure of suitability. Present developmental level, interests, sensory characteristics, reading requirements, physical abilities and product instructions where reliable information exists.
+
+## C. By interest
+
+Create discovery collections for children who enjoy space, dinosaurs, animals, superheroes, fantasy, vehicles, sports, music, engineering, nature, art, cooking, storytelling, puzzles, exploration and other interests.
+
+Character-based collections must respect intellectual-property rights and accurately distinguish licensed products from unofficial alternatives.
+
+## D. By purpose
+
+Enable discovery by:
+- Creativity.
+- Problem-solving.
+- Fine motor development.
+- Gross motor activities.
+- Social play.
+- Language and storytelling.
+- Scientific exploration.
+- Mathematical thinking.
+- Independent play.
+- Cooperative family activities.
+- Sensory exploration.
+- Outdoor discovery.
+- Cultural learning.
+- Accessible play.
+
+Do not promise that any toy will independently produce a specific developmental, educational or therapeutic outcome.
+
+---
+
+# 5. INTELLIGENT TOY DISCOVERY ENGINE
+
+Build an intelligent discovery system that helps families find the right toy rather than simply presenting thousands of products.
+
+Create a guided toy finder that asks parents or guardians relevant questions.
+
+Example questions:
+- Who is the toy for?
+- What is the child's age?
+- What interests them most?
+- What is the budget?
+- Is the toy intended for indoor or outdoor use?
+- Is the goal entertainment, creativity, learning or family play?
+- How much adult supervision is available?
+- Is portability important?
+- Are there material sensitivities or accessibility preferences to consider?
+- Is the toy a gift?
+- What delivery location and timeframe are required?
+
+Return a ranked selection with understandable reasons for each recommendation.
+
+Each result should explain:
+- Why the toy matches the selected preferences.
+- Recommended age and any relevant limitations.
+- Approximate play style and complexity.
+- Product materials and dimensions, when available.
+- Verified safety information and warnings.
+- Price, availability and delivery details.
+- Brand and seller identity.
+- Warranty and return-policy details.
+- Product provenance and authenticity information, when available.
+- Potential alternatives.
+- Total estimated cost, including delivery and applicable taxes when supported.
+
+Provide transparent filters and let users remove or change preferences.
+
+Do not claim to understand a child's personality through invasive profiling. Collect the minimum information necessary, and keep child profiles private by default.
+
+---
+
+# 6. WORLD-CLASS TOY MARKETPLACE
+
+Build a complete e-commerce experience for new toys and eligible pre-owned products.
+
+## Product pages
+
+Each product page should include:
+
+- Product name and brand.
+- Multiple images and authorized demonstration videos.
+- Original or manufacturer-listed product identifiers.
+- Product description and intended use.
+- Recommended age and required supervision.
+- Dimensions, weight and materials.
+- Assembly instructions.
+- Package contents.
+- Power, battery and connectivity requirements.
+- Compatibility information.
+- Available variants, colors and sizes.
+- Current price and applicable offers.
+- Seller identity and verification status.
+- Stock availability.
+- Delivery estimate based on supported fulfillment data.
+- Return, refund and warranty terms.
+- Safety certifications and their issuing jurisdictions, where verified.
+- Relevant recalls and official safety notices.
+- Authenticity and provenance information, when substantiated.
+- Questions and answers moderated for safety and privacy.
+- Parent-visible reviews and ratings.
+- Related accessories and compatible products.
+- Replacement parts and support information when available.
+
+Never fabricate product specifications, reviews, certifications, prices, stock or seller verification.
+
+## Shopping tools
+
+Implement:
+- Wishlist and family gift lists.
+- Side-by-side toy comparison.
+- Cart and checkout.
+- Guest shopping where appropriate.
+- Parent-controlled purchases.
+- Secure payment-provider integration.
+- Order history.
+- Shipment tracking.
+- Cancellations and eligible returns.
+- Refund status.
+- Digital receipts.
+- Saved adult delivery addresses.
+- Gift orders and messages.
+- Price-drop notifications.
+- Back-in-stock alerts.
+- Bundle recommendations.
+- Budget-aware shopping.
+- Country-specific currency and tax display.
+
+Display realistic demo products when live catalog integrations are unavailable, and label them as demo data.
+
+Use a payment-provider sandbox during development. Never store raw payment-card information.
+
+---
+
+# 7. THE TOY REUSE, RENTAL AND CIRCULAR PLAY ECONOMY
+
+Make TOYVERSE ELITE useful beyond the purchase of new toys.
+
+Create a dedicated reuse marketplace with the following services:
+
+### Pre-loved toy marketplace
+Allow eligible adult users to list used toys with clear condition grades, honest descriptions, actual photographs and transparent pricing.
+
+### Toy rentals
+Enable verified businesses and organizations to offer rentable toys and play kits, with duration, deposits, cleaning policies, delivery and return rules.
+
+### Toy exchange
+Develop parent-managed toy swapping with clear ownership, condition disclosure, safe transaction arrangements and dispute handling.
+
+### Toy libraries
+Help libraries, schools, communities and organizations manage toy inventories, lending availability, reservations and overdue reminders.
+
+### Toy donation
+Connect families and participating organizations to donation programs. Display accepted conditions, collection arrangements and recipient eligibility.
+
+### Repair and restoration
+Create a directory of repair providers, replacement components, restoration specialists and maintenance guides.
+
+### Circularity dashboard
+Show useful indicators such as the number of toys reused or borrowed and verified quantities of material diverted from disposal, only when supported by auditable data.
+
+Do not make financial or environmental claims that cannot be substantiated.
+
+---
+
+# 8. TOY COLLECTORS' ELITE CLUB
+
+Create a premium collecting environment for model cars, action figures, figurines, dolls, vintage toys, limited editions, model kits and other collectible categories.
+
+Features:
+- Personal digital collection inventory.
+- Photographs and catalog references.
+- Purchase history and ownership records.
+- Condition grading with clear definitions.
+- Manufacturer, release year and edition information.
+- Packaging and accessory tracking.
+- Collector wishlists.
+- Duplicate identification.
+- Collection organization by manufacturer, franchise or category.
+- Verified marketplace listings.
+- Optional collection valuation ranges based on current, comparable evidence.
+- Provenance documents and authenticity checks where available.
+- Public or private collection showcases.
+- Collector events and moderated adult communities.
+
+Clearly distinguish asking prices, completed sale prices, estimated values and verified valuations.
+
+Never present speculative valuations as guaranteed resale proceeds or investment advice.
+
+Collectors must be able to keep collections private without exposing home addresses, valuable inventory locations or other sensitive information.
+
+---
+
+# 9. LEARN THROUGH PLAY
+
+Create an educational discovery hub in which play becomes a gateway to curiosity.
+
+Include:
+- Building challenges.
+- Beginner robotics projects.
+- Science experiments with appropriate safety instructions.
+- Creative drawing activities.
+- Art and craft projects.
+- Storytelling prompts.
+- Geography and nature exploration.
+- Logic puzzles.
+- Math-through-play ideas.
+- Collaborative family activities.
+- Beginner music exploration.
+- Age-appropriate coding concepts.
+- Paper craft and recycled-material projects.
+- Indoor activities for rainy days.
+- Outdoor observation activities.
+- Activities that require common household materials.
+
+Each activity should include:
+- Intended age range.
+- Estimated duration.
+- Required materials.
+- Adult supervision level.
+- Step-by-step instructions.
+- Relevant safety warnings.
+- Difficulty rating.
+- Learning objectives.
+- Accessible variations.
+- Optional extension challenges.
+
+Provide printable activity sheets and parent guides where supported.
+
+Clearly identify any activity that requires specialist supervision or should not be attempted by children independently.
+
+---
+
+# 10. CHILD-FRIENDLY DIGITAL PLAYGROUND
+
+Develop a dedicated, age-appropriate experience for supervised exploration.
+
+The children's area must not become an unrestricted social network or advertising channel.
+
+Create:
+- A colorful toy exploration map.
+- Curated collections of suitable toys.
+- Interactive toy trivia.
+- Creative storytelling.
+- Drawing prompts.
+- Safe, text-based learning games.
+- Parent-approved challenges.
+- Collectible digital badges for participation.
+- Curated activity recommendations.
+- Progress in optional learning activities.
+- A simple, accessible interface.
+- Reading and visual accessibility controls.
+- A clear route back to a parent-controlled environment.
+
+Do not use manipulative streaks, gambling mechanics, randomized paid rewards or pressure-based purchasing tactics.
+
+Do not allow children to contact strangers, share public personal information, make purchases independently or upload public content without appropriate adult controls and moderation.
+
+Never expose exact location, school, contact details, private family photographs or identifiable child information in public profiles.
+
+For younger children, use minimal text, clear illustrations, simple navigation and optional audio guidance. Support reduced animation, keyboard navigation and screen-reader accessibility where applicable.
+
+---
+
+# 11. THE PARENT AND FAMILY COMMAND CENTER
+
+Create a premium dashboard for parents and guardians.
+
+Include:
+- Adult account settings.
+- Multiple child profiles with privacy protections.
+- Parent-selected age and interest preferences.
+- Toy wishlists.
+- Gift planning.
+- Shopping budgets.
+- Purchase history.
+- Shared family gift lists.
+- Delivery and return management.
+- Parent-approved activity suggestions.
+- Toy ownership and organization.
+- Toy rotation reminders.
+- Toy maintenance reminders.
+- Manufacturer recall notifications.
+- Product safety checklists.
+- Toy lending and rental records.
+- Family activity planning.
+- Educational activity history, when enabled.
+- Household inventory.
+- Donation reminders.
+- Optional toy spending summaries.
+- Controls for children's digital access.
+- Consent management.
+- Data export and deletion controls.
+
+A child's profile should not require unnecessary personal information. Allow nicknames or locally configured profiles instead of demanding a full legal name or exact birth date.
+
+Explain privacy settings in plain language.
+
+---
+
+# 12. TOY SAFETY, TRUST AND RECALL INTELLIGENCE
+
+Safety is a foundational capability, not a small section hidden in the footer.
+
+Create a trusted toy safety center.
+
+Include:
+- Age recommendations and warnings.
+- Small-parts and choking-hazard notices.
+- Battery and button-cell warnings.
+- Magnet-related safety information.
+- Electrical and charging precautions.
+- Water-play warnings.
+- Material disclosures and allergy-related information, where verified.
+- Assembly and maintenance instructions.
+- Manufacturer contact and warranty information.
+- Product authenticity guidance.
+- Counterfeit reporting.
+- Seller reporting.
+- Recall search.
+- Official recall notifications.
+- Product removal and safety escalation workflows.
+
+Where official recall databases or manufacturer feeds are available, integrate them through documented APIs or other authorized data sources.
+
+Record the source, jurisdiction, date checked and last successful update of safety information.
+
+If reliable data is unavailable, state that explicitly. Never display an unverified item as safety-certified.
+
+Allow authorized safety administrators to suspend listings and notify affected customers when credible risks are identified.
+
+Safety policies must comply with applicable laws in the countries where the platform operates.
+
+---
+
+# 13. TOYVERSE AI ASSISTANT
+
+Create an intelligent assistant named **ORBIT**, the Toyverse Discovery Intelligence.
+
+ORBIT must operate as a carefully bounded helper rather than pretending to be an all-knowing authority.
+
+Its responsibilities include:
+
+- Natural-language toy searches.
+- Budget-aware recommendations.
+- Age-appropriate discovery assistance.
+- Gift recommendation guidance.
+- Toy comparison summaries.
+- Explanation of product specifications.
+- Parent-friendly activity recommendations.
+- Educational play suggestions.
+- Toy organization suggestions.
+- Repair and care guidance sourced from reliable instructions.
+- Product compatibility assistance.
+- Catalog search.
+- Assistance finding official safety and recall information.
+- Seller support.
+- Creator product-listing assistance.
+- Collector catalog organization.
+
+Example requests:
+"Find five creative toys for a six-year-old under ₹1,500."
+
+"Compare these two science kits and explain their safety requirements."
+
+"Help me find a durable, travel-friendly toy for a long car journey."
+
+"Suggest a rainy-day activity using building blocks and paper."
+
+"Help me create a birthday wishlist for my family."
+
+"Find replacement parts for this toy using its model number."
+
+The assistant must disclose uncertainty, cite its underlying product or official safety sources where feasible, and avoid invented details.
+
+It must not diagnose children's medical or developmental conditions, offer unsupported therapeutic claims or recommend unsafe activities.
+
+Where a question concerns product danger, a recall or an urgent safety issue, prioritize official information and qualified human assistance over speculative AI responses.
+
+Use retrieval-augmented generation with approved product data, manufacturer manuals, authorized toy catalogs and trusted safety sources.
+
+Do not train on children's private conversations or use them for advertising without a legally valid basis and appropriate safeguards.
+
+---
+
+# 14. PREMIUM GIFTS AND CELEBRATION STUDIO
+
+Build a beautifully designed gifting center for birthdays, festivals, holidays, school rewards, family occasions and special milestones.
+
+Features:
+- Occasion-based collections.
+- Budget filters.
+- Gift finder.
+- Gift recommendations based on parent-provided interests.
+- Digital gift lists.
+- Family collaboration.
+- Gift wrapping options from participating sellers.
+- Gift receipts.
+- Adult-managed delivery scheduling.
+- Group gifting where supported.
+- Duplicate-gift reduction through shared wishlists.
+- Optional thank-you note templates.
+- Gift suggestions from multiple participating retailers.
+
+Offer recommendations across affordable, mid-range, premium and luxury categories.
+
+Premium presentation must never imply that expensive toys are automatically better or more suitable for children.
+
+---
+
+# 15. TOY BRANDS, RETAILERS AND MANUFACTURERS
+
+Create a professional business portal for manufacturers, distributors and verified retailers.
+
+Features:
+- Business verification.
+- Brand profile management.
+- Product catalog tools.
+- Bulk catalog import.
+- Inventory updates.
+- Pricing and promotional management.
+- Order management.
+- Fulfillment and shipping integrations.
+- Returns management.
+- Product safety document submission.
+- Recall communication.
+- Customer-support tools.
+- Analytics dashboard.
+- Conversion and product-view analytics.
+- Inventory performance reports.
+- Authorized distributor identification.
+- Seller quality metrics.
+- Marketplace commission transparency.
+- Business billing and settlements.
+- Advertising controls with strict limits around children's experiences.
+
+Build a streamlined seller onboarding process with clear compliance requirements.
+
+Do not allow business verification badges to appear before verification succeeds.
+
+---
+
+# 16. INDEPENDENT TOY CREATORS AND INNOVATION LAB
+
+Give designers, educators, inventors and small toy companies a place to showcase original ideas.
+
+Features:
+- Creator portfolios.
+- Original product showcases.
+- Prototype presentations.
+- Manufacturing and sourcing resources.
+- Intellectual-property documentation.
+- Design collaboration.
+- Small-batch launches.
+- Authorized crowdfunding integrations, where legally supported.
+- Creator analytics.
+- Customer feedback management.
+- Accessible design principles.
+- Sustainable material education.
+- Licensing inquiry workflows.
+
+Offer an innovation showcase for new concepts, educational products and original play experiences.
+
+Provide appropriate intellectual-property protections and clear terms before a creator uploads confidential designs.
+
+Do not publicly expose confidential prototypes by default.
+
+---
+
+# 17. VERIFIED TOY REVIEWS AND COMMUNITY
+
+Build a trustworthy adult-facing community.
+
+Features:
+- Parent-written reviews.
+- Verified-purchase indicators.
+- Product questions and answers.
+- Toy collection showcases.
+- Moderated adult groups.
+- Family activity recommendations.
+- Toy enthusiast communities.
+- Toy repair discussions.
+- Community toy exchanges.
+- Moderated expert content.
+- Reporting and appeals.
+
+Do not treat every review as verified.
+
+Detect suspicious review patterns using transparent moderation policies and appropriate abuse-prevention systems.
+
+Paid placements and sponsored recommendations must be clearly disclosed.
+
+Children's areas must have separate access and moderation rules, with no direct messaging between children and unknown adults.
+
+---
+
+# 18. GLOBAL TOY CULTURE AND DISCOVERY
+
+Make TOYVERSE ELITE a window into how people play around the world.
+
+Create collections exploring traditional toys, local craftsmanship, childhood games, model-making traditions, cultural puzzles, construction toys and contemporary play trends.
+
+Support localized experiences for India and international markets.
+
+Potential localization capabilities:
+- English and additional supported languages.
+- Country-specific pricing and currency.
+- Local delivery options.
+- Regional shopping festivals.
+- Country-specific safety notices.
+- Local business directories.
+- Localized product availability.
+- Regional gift recommendations.
+- Metric and imperial units as appropriate.
+- Accessible language selection.
+
+Build localization into the architecture rather than hardcoding one country's rules throughout the application.
+
+Use licensed images, authorized catalog data or original visual assets. Respect the intellectual property of brands, creators and publishers.
+
+---
+
+# 19. LOCAL DISCOVERY AND REAL-WORLD PLAY
+
+Build an opt-in directory of real-world play destinations and services.
+
+Include:
+- Local toy shops.
+- Toy libraries.
+- Play museums.
+- Toy exhibitions and conventions.
+- Hobby stores.
+- Collectors' events.
+- Children's workshops.
+- Maker spaces.
+- Toy repair shops.
+- Toy donation centers.
+- Family-friendly activity venues.
+
+Allow adults to search by location, category, accessibility, opening hours and relevant facilities when reliable data is available.
+
+Location-based services must be adult-controlled and should not expose a child's live location.
+
+Use trusted mapping and business-data providers. Clearly display the source and last-updated information where appropriate.
+
+---
+
+# 20. ACCESSIBILITY AND INCLUSIVE DESIGN
+
+Build for children and adults with varied abilities and preferences.
+
+Include:
+- Screen-reader compatibility.
+- Keyboard navigation.
+- High-contrast options.
+- Adjustable text sizes.
+- Clear focus indicators.
+- Reduced-motion mode.
+- Captions and transcripts for videos.
+- Text alternatives for meaningful images.
+- Easy-read content.
+- Sensory-conscious browsing settings.
+- Alternative toy discovery filters.
+- Accessible activity variations.
+
+Do not claim that toys are suitable for every disability unless the relevant attributes have been evaluated and supported by credible evidence.
+
+---
+
+# 21. THE COMPLETE USER EXPERIENCE
+
+Design all key journeys before implementation.
+
+### Journey A: Parent discovering a toy
+Open the app, search naturally, apply age and budget filters, compare recommendations, inspect safety information, add a toy to a wishlist and proceed to a secure adult-managed checkout.
+
+### Journey B: Child exploring
+Enter a parent-approved child interface, discover suitable toy categories, explore curated activities, receive safe recommendations and earn non-monetary recognition for optional challenges.
+
+### Journey C: Birthday gifting
+Create a birthday wishlist, invite family members through adult-managed sharing, reduce duplicate gifts and order from eligible sellers.
+
+### Journey D: Selling a pre-loved toy
+An adult creates a listing, uploads real photographs, describes condition and missing components, reviews transaction rules, publishes the listing and tracks the order.
+
+### Journey E: Toy collector
+Create a collection, catalog owned items, track purchase history, identify possible matching listings and review evidence-based market estimates.
+
+### Journey F: Toy safety
+Search a product by name, model or identifier, retrieve available official safety notices, inspect the source and date, and report a suspected issue.
+
+### Journey G: Educator planning activities
+Select an age range, topic, duration and available materials to find appropriate activities, printable instructions and supervision requirements.
+
+Every journey must have loading states, useful empty states, input validation, understandable error messages and a successful completion state.
+
+---
+
+# 22. DESIGN SYSTEM AND SCREEN ARCHITECTURE
+
+Produce a complete responsive design system.
+
+Required screens:
+
+1. Splash screen.
+2. Onboarding.
+3. Adult sign-up and sign-in.
+4. Parent or guardian setup.
+5. Child-profile setup with privacy-conscious options.
+6. Home dashboard.
+7. Universal toy search.
+8. Category directory.
+9. Product listing.
+10. Product detail.
+11. Product comparison.
+12. Wishlist.
+13. Shopping cart.
+14. Checkout.
+15. Order confirmation.
+16. Order tracking.
+17. Account and settings.
+18. Family dashboard.
+19. Child-safe discovery mode.
+20. Educational activity studio.
+21. ORBIT AI assistant.
+22. Pre-loved marketplace.
+23. Toy rental.
+24. Toy exchange.
+25. Toy library.
+26. Toy donation center.
+27. Collector's dashboard.
+28. Toy safety center.
+29. Recall information pages.
+30. Gift studio.
+31. Brand storefront.
+32. Seller dashboard.
+33. Creator studio.
+34. Adult community.
+35. Local discovery map.
+36. Notification center.
+37. Customer support.
+38. Admin dashboard.
+39. Content moderation dashboard.
+40. Privacy and consent management.
+
+Desktop navigation should use an elegant top navigation, a powerful search bar, clear category discovery, a family account area and contextual shopping tools.
+
+On mobile, use a streamlined bottom navigation with Home, Discover, Wishlist, Family and Account, adapting the available features to the current permission level.
+
+Use consistent components for:
+- Product cards.
+- Category tiles.
+- Price displays.
+- Age labels.
+- Safety notices.
+- Seller verification.
+- Ratings.
+- Search filters.
+- Product comparisons.
+- Recommendation explanations.
+- Modals.
+- Toast notifications.
+- Forms.
+- Progress states.
+- Empty states.
+- Error states.
+- Accessibility controls.
+
+---
+
+# 23. TECHNICAL ARCHITECTURE
+
+Build using a maintainable, production-oriented architecture.
+
+Recommended stack, subject to the selected development environment:
+
+- Frontend: React with Next.js and TypeScript.
+- Styling: Tailwind CSS with a reusable design system.
+- Components: Accessible, composable UI components.
+- Database: PostgreSQL.
+- Authentication: A reputable managed authentication service.
+- Backend: Secure server-side APIs and validated service functions.
+- File storage: Private object storage with controlled access.
+- Search: PostgreSQL full-text search initially, with a dedicated search engine when justified.
+- Payments: A supported payment service with test and production environments.
+- Maps: An authorized mapping provider.
+- AI: A server-side model integration with guarded tool access and retrieval from approved data.
+- Notifications: Consent-aware email and push notification services.
+- Analytics: Privacy-conscious product analytics.
+- Error monitoring: A reputable monitoring and alerting system.
+- Deployment: A supported cloud deployment platform.
+- Testing: Unit, integration, accessibility and end-to-end tests.
+
+If the app builder supports another native stack more reliably, use its strongest appropriate technologies rather than forcing an incompatible stack.
+
+Keep API keys, payment credentials, model secrets and privileged tokens on the server.
+
+Do not expose secrets in browser code or commit them to public repositories.
+
+Use environment variables, documented configuration, database migrations, structured logging and reliable error handling.
+
+---
+
+# 24. DATABASE DESIGN
+
+Create a well-normalized database with appropriate relations and indexing.
+
+Include entities for:
+
+- Users.
+- Adult accounts.
+- Family groups.
+- Child profiles.
+- Consent records.
+- Roles and permissions.
+- Brands.
+- Manufacturers.
+- Sellers.
+- Seller verification records.
+- Product categories.
+- Products.
+- Product variants.
+- Product images.
+- Product specifications.
+- Safety attributes.
+- Certification records.
+- Recall notices.
+- Inventory.
+- Prices.
+- Promotions.
+- Reviews.
+- Questions and answers.
+- Wishlists.
+- Wishlist items.
+- Shopping carts.
+- Orders.
+- Order items.
+- Payments.
+- Refunds.
+- Shipments.
+- Returns.
+- Rental listings.
+- Rental reservations.
+- Pre-loved listings.
+- Toy exchanges.
+- Toy donations.
+- Toy libraries.
+- Collectible collections.
+- Collector inventory items.
+- Learning activities.
+- Activity materials.
+- AI recommendation records.
+- Notifications.
+- Support tickets.
+- Reports and moderation actions.
+- Audit logs.
+- Creator portfolios.
+- Local business listings.
+- Consent-aware analytics events.
+
+Use stable product identifiers where available and distinguish manufacturer identifiers from internal database identifiers.
+
+Add database constraints, indexes, transaction handling, foreign keys and suitable deletion policies.
+
+Design child and family data for restricted access. Use row-level security or an equivalent robust authorization approach where supported.
+
+Never rely exclusively on frontend role checks to protect sensitive records.
+
+---
+
+# 25. SECURITY, CHILD PRIVACY AND LEGAL READINESS
+
+Treat security and privacy as core product architecture.
+
+Implement:
+- Least-privilege access.
+- Secure authentication.
+- Appropriate session management.
+- Input validation.
+- Output encoding.
+- Rate limiting.
+- Protection against common web vulnerabilities.
+- Secure payment-provider integration.
+- Restricted access to children's information.
+- Consent and permission records.
+- Account recovery controls.
+- Data export and deletion workflows.
+- Audit logs for sensitive administrative actions.
+- Secure file upload validation.
+- Abuse reporting.
+- Moderation and escalation procedures.
+- Data minimization.
+- Retention and deletion schedules.
+
+Assess applicable child privacy, consumer protection, payment, advertising, product safety and data protection requirements in every target jurisdiction before launch.
+
+Include a compliance-review process for relevant requirements, potentially including India's data protection framework, the EU GDPR and child-related rules, COPPA in the United States where applicable, and relevant consumer product safety requirements.
+
+Do not claim compliance merely because privacy controls exist. Obtain qualified legal review where required.
+
+Do not use children's data to build advertising profiles or behavioral targeting systems.
+
+Default to private family experiences, meaningful adult controls and age-appropriate product design.
+
+---
+
+# 26. REVENUE MODEL AND BUSINESS ENGINE
+
+Build sustainable monetization without compromising child safety or trust.
+
+Potential revenue streams:
+
+1. Commission on eligible marketplace sales.
+2. Retailer and manufacturer subscriptions.
+3. Premium business analytics.
+4. Paid seller tools.
+5. Clearly disclosed adult-facing sponsored placements.
+6. Toy rental transaction fees.
+7. Pre-loved marketplace commissions.
+8. Authorized affiliate partnerships.
+9. Toy library software subscriptions.
+10. Professional catalog-management tools.
+11. Premium collector tools.
+12. Creator storefront services.
+13. School and institutional plans.
+14. Bulk purchasing services.
+15. Corporate gifting solutions.
+
+Provide separate business plans for a lean launch, domestic growth and international expansion.
+
+Show how revenue is generated, who pays, what value is delivered and which variable costs are involved.
+
+Build pricing and commission rules as configurable business settings rather than hardcoded assumptions.
+
+Never introduce hidden fees, deceptive subscriptions, fake discounts, fake scarcity or purchase pressure directed at children.
+
+---
+
+# 27. ANALYTICS AND BUSINESS INTELLIGENCE
+
+Create analytics dashboards that support responsible decision-making.
+
+Measure appropriate aggregate metrics such as:
+- Active adult accounts.
+- Catalog coverage.
+- Search success.
+- Product-detail engagement.
+- Wishlist creation.
+- Adult checkout conversion.
+- Order fulfillment.
+- Product return rates.
+- Seller quality.
+- Product availability.
+- Repeat purchasing.
+- Customer satisfaction.
+- Safety report response time.
+- Recall notification completion.
+- Rental utilization.
+- Reuse and donation activity.
+- Support resolution time.
+- Seller retention.
+- Revenue, gross margin and operating costs.
+
+Separate real measured numbers from estimates.
+
+Do not manufacture traction, revenue, customers, ratings or sales data.
+
+Use privacy-conscious analytics and suppress small groups of data where re-identification could be possible.
+
+---
+
+# 28. ADMINISTRATIVE CONTROL CENTER
+
+Build a powerful but secure administrative interface.
+
+Provide role-specific tools for:
+- Product catalog management.
+- Product data correction.
+- Seller approval and suspension.
+- Verification workflows.
+- Recall and safety escalation.
+- Orders and refund oversight.
+- Marketplace dispute resolution.
+- Report review.
+- Content moderation.
+- Fraud investigation.
+- Coupon and promotion management.
+- Category management.
+- Localization.
+- Support tickets.
+- Business analytics.
+- AI knowledge-source management.
+- System health.
+- Audit logs.
+- Role and permission management.
+
+Require appropriate authorization for sensitive operations.
+
+Record who performed significant administrative actions, when they occurred and what changed.
+
+Implement safeguards against accidental catalog-wide deletion, unauthorized refunds and inappropriate access to family data.
+
+---
+
+# 29. PERFORMANCE AND RELIABILITY
+
+The app must feel premium because it works exceptionally well, not just because it looks expensive.
+
+Requirements:
+- Responsive layouts for phones, tablets and desktops.
+- Fast initial rendering.
+- Optimized image delivery.
+- Lazy loading.
+- Paginated catalogs.
+- Search debouncing.
+- Appropriate caching.
+- Database query optimization.
+- Useful loading states.
+- Recoverable failures.
+- Offline-friendly access to selected non-sensitive content when feasible.
+- Monitoring and error reporting.
+- Accessible forms.
+- Search engine optimization for public product and category pages where appropriate.
+- Reliable localization.
+- Automated tests for critical journeys.
+- Secure handling of external integrations.
+
+Avoid unnecessary animation, enormous images, redundant network requests and oversized client-side bundles.
+
+Do not expose personalized family or order data in public search results or shared cache entries.
+
+---
+
+# 30. THE MINIMUM LOVABLE PRODUCT
+
+Although the long-term vision is enormous, start with a focused, complete and testable release.
+
+The initial version must contain:
+
+1. A stunning responsive homepage.
+2. Adult authentication.
+3. A searchable toy catalog.
+4. Category, age, interest and price filters.
+5. Detailed product pages.
+6. Product comparisons.
+7. Parent-managed wishlists.
+8. A functional cart.
+9. Demo checkout or a sandbox payment integration.
+10. Order confirmation and order history.
+11. A basic parent dashboard.
+12. An initial toy safety and recall interface.
+13. ORBIT-powered discovery with safe fallback behavior.
+14. A simple pre-loved listing flow for approved adult users.
+15. A secure administration interface.
+16. Working privacy and access controls.
+17. Realistic demo data.
+18. Basic automated tests.
+
+Implement the minimum lovable product completely before adding every advanced marketplace, rental, creator or community feature.
+
+For any capability that depends on a third-party service, build a clear integration boundary and a functional demonstration mode rather than pretending the service is connected.
+
+---
+
+# 31. DESIGN AND BUILD EXECUTION PLAN
+
+Execute the project through these phases.
+
+### Phase 1: Product foundation
+Define personas, core user journeys, information architecture, design principles, component library and technical architecture.
+
+### Phase 2: Visual prototype
+Create the responsive homepage, search, catalog, product detail, wishlist, cart and family dashboard.
+
+### Phase 3: Functional application
+Connect authentication, database, search, product management and essential adult shopping journeys.
+
+### Phase 4: Trust and safety
+Implement role authorization, privacy controls, consent handling, safety notices, reporting and administrative review.
+
+### Phase 5: AI discovery
+Add the ORBIT assistant with approved knowledge sources, strict data boundaries and transparent uncertainty handling.
+
+### Phase 6: Marketplace expansion
+Develop seller onboarding, verified listings, pre-loved toys and subsequent rental or toy-library modules.
+
+### Phase 7: Quality assurance
+Test user journeys, API failure states, data access, mobile layouts, accessibility, performance and common security risks.
+
+### Phase 8: Launch readiness
+Prepare deployment, monitoring, backup and recovery plans, product data sourcing, customer support, legal review and operational documentation.
+
+At each phase, ensure that the application remains coherent, usable and testable.
+
+---
+
+# 32. ACCEPTANCE CRITERIA
+
+Do not consider the build finished merely because the homepage renders.
+
+Verify that:
+
+- Navigation links lead to real screens.
+- Search returns matching catalog products.
+- Filters change the displayed results.
+- Product details correspond to the selected products.
+- Wishlists persist for authenticated adult accounts.
+- Shopping-cart quantities and totals update correctly.
+- Invalid form entries produce useful errors.
+- Demo checkout never falsely claims to charge real money.
+- Orders are associated with the correct authorized account.
+- Unauthorized users cannot access private family data.
+- Seller and administrator permissions are checked server-side.
+- Product safety labels distinguish verified facts from missing information.
+- Recall information displays its source where available.
+- AI responses do not invent inventory, certifications or prices.
+- Empty, loading and error states are implemented.
+- The application works on mobile and desktop.
+- Accessibility and essential security checks pass.
+- Critical user journeys have automated tests.
+
+Provide a short build report describing what is operational, what uses demonstration data, which integrations remain disconnected and what is required before real commercial launch.
+
+---
+
+# 33. REQUIRED DELIVERABLES
+
+Produce the following in the chosen development environment:
+
+1. A polished brand and visual identity system.
+2. A responsive working application.
+3. All essential MVP screens.
+4. Reusable UI components.
+5. A documented database schema.
+6. Secure authentication and role-based authorization.
+7. Seeded, clearly labeled demonstration data.
+8. Working search, filters and wishlists.
+9. Functional cart and demo checkout.
+10. Parent and administrator dashboards.
+11. Toy safety information architecture.
+12. An initial ORBIT assistant integration or functional mock assistant.
+13. A project README.
+14. Environment variable documentation.
+15. Setup and deployment instructions.
+16. A test plan and test results.
+17. A list of incomplete features and external dependencies.
+18. A phased product roadmap.
+19. A commercial launch checklist.
+20. A clear distinction between prototype functionality and production readiness.
+
+Build the actual core application wherever tools and integrations permit. Do not respond with only a conceptual essay, an image or an attractive landing page.
+
+---
+
+# 34. FINAL CREATIVE DIRECTION
+
+Make TOYVERSE ELITE feel like the arrival of a new global institution dedicated to toys and imagination.
+
+The visual experience must be magnificent. The engineering must be disciplined. The shopping experience must be convenient. The discovery experience must feel personal without becoming invasive. The child experience must be appropriate and safe. The business model must be sustainable. The platform must work for ordinary families as well as premium collectors and professional toy businesses.
+
+Imagine a universe where a parent discovers the perfect first building set, a child explores a supervised creativity challenge, a collector catalogs a rare model car, a creator launches an original toy, a family gives unused toys a second life and a teacher finds a meaningful classroom activity, all inside one connected ecosystem.
+
+That is the scale of the vision.
+
+**Build TOYVERSE ELITE: the world's most trusted, comprehensive, imaginative and premium digital destination for the entire universe of toys.**
+
+Make it beautiful enough to inspire, powerful enough to grow, practical enough to use every week and responsible enough for families to trust.
+
+Start by creating the complete visual design, then implement the functional MVP, verify the critical journeys and document the remaining work. Make every design and technical choice serve the experience of play, the needs of families and the long-term strength of the platform.
